@@ -9,18 +9,12 @@ Open the TankWars.sln in Visual Studiio and select Build > Build Solution at the
 
 ### Controls:
 
-W: Up 
-
-S: Down 
-
-A: Left 
-
-D: Right 
-
-Mouse: Aim 
-
-Left Click: Fire shell 
-
+W: Up  
+S: Down  
+A: Left  
+D: Right  
+Mouse: Aim  
+Left Click: Fire shell  
 Right Click: Fire Beam
 
 ### Extra Features: 
