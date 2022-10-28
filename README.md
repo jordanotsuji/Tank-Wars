@@ -1,6 +1,5 @@
 # Tank-Wars
-
-TankWars written by Kyle Charlton and Jordan Otsuji
+By Jordan Otsuji & Kyle Charlton
 
 Welcome to Tank Wars! Tank Wars is a multi-player online game where you connect to a lobby/server and participate in a free for all shootout against other tanks. After launching the client, enter the server adress of the lobby you wish to connect to, select a player name, and hit start! Each tank can sustain 3 shells worth of damage before being destroyed, and special powerups can be picked up to shoot a beam that destroys tanks instantly. Keep track of your score to the right of your name, and aim to have the highest score!
 
