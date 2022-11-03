@@ -24,4 +24,5 @@ Right Click: Fire Beam
 - Ultra smooth movements utilizing a movement queueing system 
 - Option to re-connect or connect to another server upon disconnection (server shutdown or error) 
 - Help Button with controls
+- config file under Resources/settings.xml allows the user to edit variables such as health, tank speed, projectile speed, and much more
 
